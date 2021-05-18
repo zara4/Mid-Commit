@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801406744708",
+    "firebase_url": "https://naiki-b125a-default-rtdb.firebaseio.com",
+    "project_id": "naiki-b125a",
+    "storage_bucket": "naiki-b125a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801406744708:android:8b98d574b5da0b976e2ad1",
+        "android_client_info": {
+          "package_name": "com.naiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801406744708-ccgg1ser01t9gs8i2aoksne6l3ggms56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoW-XzkP1LD1aRMdC_gO_uju7yYav-kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801406744708-ccgg1ser01t9gs8i2aoksne6l3ggms56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

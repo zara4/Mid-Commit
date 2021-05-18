@@ -1,0 +1,50 @@
+1. Shopper signup
+
+https://adloop.malangis.com/public/api/shopper_signup
+
+Parameters: firstname, lastname, email, country_code, phonenumber, gender, location
+
+
+2. Shopper OTP Verify
+
+https://adloop.malangis.com/public/api/shopper_otpverify
+
+Parameters: phonenumber, country_code, code
+
+
+3. Shopper Login 
+
+https://adloop.malangis.com/public/api/shopper_login
+
+Parameters: phonenumber
+
+
+4.Retailer Signup
+
+https://adloop.malangis.com/public/api/retailer_signup
+
+Parameters: firstname, lastname,  country_code, phonenumber
+
+5. Retailer OTP Verify
+
+https://adloop.malangis.com/public/api/retailer_otpverify
+
+Parameters: phonenumber, country_code, code
+
+6. Retailer Login
+
+https://adloop.malangis.com/public/api/retailer_login
+
+Parameters: phonenumber
+
+7. Category List
+
+https://adloop.malangis.com/public/api/categorylist  (NO Parameters)
+
+8. Subcategory of Main category
+
+https://adloop.malangis.com/public/api/subcategorylist
+
+Parameter: category_id  
+
+ 
